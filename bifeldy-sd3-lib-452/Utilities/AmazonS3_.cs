@@ -6,7 +6,7 @@
  * Department   :: IT SD 03
  * Mail         :: bias@indomaret.co.id
  * 
- * Catatan      :: Google Cloud Storage
+ * Catatan      :: Amazon S3
  *              :: Harap Didaftarkan Ke DI Container
  * 
  */
